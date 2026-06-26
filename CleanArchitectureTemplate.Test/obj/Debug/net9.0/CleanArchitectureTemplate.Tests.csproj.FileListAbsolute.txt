@@ -1,0 +1,11 @@
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\bin\Debug\net9.0\CleanArchitectureTemplate.Tests.deps.json
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\bin\Debug\net9.0\CleanArchitectureTemplate.Tests.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\bin\Debug\net9.0\CleanArchitectureTemplate.Tests.pdb
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\CleanArchitectureTemplate.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\CleanArchitectureTemplate.Tests.AssemblyInfoInputs.cache
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\CleanArchitectureTemplate.Tests.AssemblyInfo.cs
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\CleanArchitectureTemplate.Tests.csproj.CoreCompileInputs.cache
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\CleanArchitectureTemplate.Tests.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\refint\CleanArchitectureTemplate.Tests.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\CleanArchitectureTemplate.Tests.pdb
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Test\obj\Debug\net9.0\ref\CleanArchitectureTemplate.Tests.dll

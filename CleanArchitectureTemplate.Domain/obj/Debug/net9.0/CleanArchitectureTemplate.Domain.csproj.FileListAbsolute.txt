@@ -1,0 +1,11 @@
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\bin\Debug\net9.0\CleanArchitectureTemplate.Domain.deps.json
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\bin\Debug\net9.0\CleanArchitectureTemplate.Domain.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\bin\Debug\net9.0\CleanArchitectureTemplate.Domain.pdb
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\CleanArchitectureTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\CleanArchitectureTemplate.Domain.AssemblyInfoInputs.cache
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\CleanArchitectureTemplate.Domain.AssemblyInfo.cs
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\CleanArchitectureTemplate.Domain.csproj.CoreCompileInputs.cache
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\CleanArchitectureTemplate.Domain.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\refint\CleanArchitectureTemplate.Domain.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\CleanArchitectureTemplate.Domain.pdb
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Domain\obj\Debug\net9.0\ref\CleanArchitectureTemplate.Domain.dll

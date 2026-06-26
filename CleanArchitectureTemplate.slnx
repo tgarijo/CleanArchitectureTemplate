@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CleanArchitectureTemplate.Application/CleanArchitectureTemplate.Application.csproj" />
+  <Project Path="CleanArchitectureTemplate.Domain/CleanArchitectureTemplate.Domain.csproj" />
+  <Project Path="CleanArchitectureTemplate.Infrastructure/CleanArchitectureTemplate.Infrastructure.csproj" />
+  <Project Path="CleanArchitectureTemplate.PresentationWeb/CleanArchitectureTemplate.PresentationWeb.csproj" />
+  <Project Path="CleanArchitectureTemplate.Test/CleanArchitectureTemplate.Tests.csproj" />
+</Solution>

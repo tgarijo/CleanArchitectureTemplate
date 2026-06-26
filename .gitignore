@@ -1,0 +1,74 @@
+## #######################################################################
+## ASP.NET Core / C# / Visual Studio (.gitignore)
+## #######################################################################
+
+# Archivos de usuario y caché de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación y salida (Output)
+[Bb]in/
+[Oo]bj/
+[An]alyst/
+[Xx]64/
+[Xx]86/
+[Aa]rm/
+[Aa]rm64/
+_ReSharper*/
+*[Cc]runch*/
+_NCrunch_*
+.consulo/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales de pruebas y cobertura de código
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+_Chutzpah*
+.dotCover/
+
+# Secretos y configuraciones locales (¡CRÍTICO para seguridad!)
+# Nunca subas contraseñas o cadenas de conexión reales al repositorio
+appsettings.Development.json
+appsettings.Local.json
+*.usersecrets
+
+# Dependencias de paquetes (NuGet, npm, bower)
+.nuget/
+# Los paquetes se restauran automáticamente al compilar
+packages/
+!packages/repositories.config
+node_modules/
+/wwwroot/lib/
+
+# Archivos generados por Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Archivos generados por VS Code
+.vscode/
+# Descomenta la línea de abajo si quieres guardar tus tareas y lanzadores de VS Code
+# !.vscode/tasks.json
+# !.vscode/launch.json
+
+# Archivos de publicación (Publish)
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+
+# Logs y bases de datos locales
+*.log
+*.sqlite
+*.db
+/App_Data/
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

@@ -17,3 +17,4 @@ C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Infrastruc
 C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Infrastructure\obj\Debug\net9.0\CleanArchitectureTemplate.Infrastructure.pdb
 C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Infrastructure\obj\Debug\net9.0\CleanArchitectureTemplate.Infrastructure.genruntimeconfig.cache
 C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Infrastructure\obj\Debug\net9.0\ref\CleanArchitectureTemplate.Infrastructure.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Infrastructure\obj\Debug\net9.0\CleanArchitectureTemplate.Infrastructure.sourcelink.json

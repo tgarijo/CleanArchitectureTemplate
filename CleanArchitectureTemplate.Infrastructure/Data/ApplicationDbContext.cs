@@ -9,5 +9,11 @@ namespace CleanArchitectureTemplate.PresentationWeb.Data
             : base(options)
         {
         }
+
+        //Agregamos las Entities y Models con DbSet
+        //public DbSet<YourEntity> YourEntities { get; set; }
+
+
+
     }
 }

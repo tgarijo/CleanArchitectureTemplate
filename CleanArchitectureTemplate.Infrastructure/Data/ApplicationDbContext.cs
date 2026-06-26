@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using CleanArchitectureTemplate.Domain.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitectureTemplate.PresentationWeb.Data
@@ -13,7 +14,7 @@ namespace CleanArchitectureTemplate.PresentationWeb.Data
         //Agregamos las Entities y Models con DbSet
         //public DbSet<YourEntity> YourEntities { get; set; }
 
-
+        public DbSet<Product> Products{ get; set; }
 
     }
 }

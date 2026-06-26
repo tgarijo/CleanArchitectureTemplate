@@ -13,3 +13,4 @@ C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Applicatio
 C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Application\obj\Debug\net9.0\refint\CleanArchitectureTemplate.Application.dll
 C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Application\obj\Debug\net9.0\CleanArchitectureTemplate.Application.pdb
 C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Application\obj\Debug\net9.0\ref\CleanArchitectureTemplate.Application.dll
+C:\development\c#\CleanArchitectureTemplate\CleanArchitectureTemplate.Application\obj\Debug\net9.0\CleanArchitectureTemplate.Application.sourcelink.json

@@ -9,6 +9,16 @@
 *.userosscache
 *.sln.docstates
 
+
+# Archivos de configuracion
+**/appsettings.json
+**/appsettings.Development.json
+
+
+**/[Bb]in/
+**/[Oo]bj/
+
+
 # Carpetas de compilación y salida (Output)
 [Bb]in/
 [Oo]bj/
